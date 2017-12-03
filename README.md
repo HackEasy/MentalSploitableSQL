@@ -1,0 +1,2 @@
+# MentalSploitableSQL
+SQL Ruby AutoExploit
